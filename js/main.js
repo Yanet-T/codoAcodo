@@ -29,7 +29,10 @@ class MyFooter extends HTMLElement{
         <div class=" col-6">
           <div class="direccion">
             <p>Dirección de la empresa: <br>
-            Calle Falsa 123, Ciudad Ficticia</p>
+            Calle Falsa 123, Ciudad Ficticia
+            <br>
+            © Codo a Codo 1C2023 Team SII</p>
+
           </div>
         </div>
 

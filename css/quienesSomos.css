@@ -208,3 +208,11 @@ footer {
   font-style: italic;
   margin-bottom: 20px;
 }
+
+h2 {
+  animation: scroll 5s ease-in-out infinite;
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  font-style: italic;
+  margin: 20px;
+}
